@@ -1,0 +1,4 @@
+# Requirements for Simple Calculator project
+
+# Specify the Python version
+python_version >= 3.7
